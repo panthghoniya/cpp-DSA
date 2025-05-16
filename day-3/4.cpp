@@ -13,7 +13,7 @@ int main()
     cin >> b;
     cout << "enter the 3 value :  ";
     cin >> c;
-    cout << "enter the 3 value :  ";
+    cout << "enter the 4 value :  ";
     cin >> d;
 
 
@@ -29,7 +29,7 @@ int main()
          {
             cout << "d is big ";
          }
-       }
+       } 
        else
        {
         if (c > d)
